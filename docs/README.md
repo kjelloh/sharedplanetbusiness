@@ -34,3 +34,7 @@ This is Shared Planet Business. Not a brand. Not a plan.
 Just an invitation to take our shared work seriously — with eyes open and feet on the ground.
 
 Let’s play.
+
+# License
+
+License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
