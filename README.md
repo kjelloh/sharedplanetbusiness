@@ -1,4 +1,8 @@
 # sharedplanetbusiness
 Let’s mean business — about being human, fallible, and still trying with the best outcome for humanity in mind
 
-* [doc/READEME](doc/README.md)
+* [docs/READEME](docs/README.md)
+
+# License
+
+License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
